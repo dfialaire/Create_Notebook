@@ -1,1 +1,2 @@
 lolviz==1.4.4
+graphviz==2.40.1
